@@ -1,5 +1,5 @@
 # Mini Curso Android
-Repositório com material de apoio para o mini curso de Android
+Repositorio com material de apoio para o mini curso de Android
 
 Material:
 
